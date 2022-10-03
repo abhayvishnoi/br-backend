@@ -1,0 +1,27 @@
+{
+  "name": "brandrocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "form-data": "^4.0.0",
+    "helmet": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "loglevel": "^1.8.0",
+    "mongoose": "^6.5.5",
+    "node-fetch": "^2.6.7",
+    "node-vibrant": "^3.2.1-alpha.1"
+  },
+  "devDependencies": {
+    "https-proxy-agent": "^5.0.1"
+  }
+}

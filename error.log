@@ -1,0 +1,1441 @@
+Sat Sep 10 2022 - collection.find is not a function TypeError: collection.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:9:36)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:22:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - collection.find is not a function TypeError: collection.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:9:36)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:22:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - collection.find is not a function TypeError: collection.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:9:36)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:22:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:10:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:23:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:10:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:23:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:10:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:23:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - model.find is not a function TypeError: model.find is not a function
+    at getLastId (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:11:31)
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:24:23)
+    at exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\node_modules\express\lib\router\index.js:280:10)
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "{\n' +
+  '  _id: new ObjectId("631cc4dcf2d0dceed752720d"),\n' +
+  '  id: 1,\n' +
+  "  width: '1080',\n" +
+  "  height: '1350',\n" +
+  "  html: '<h1>Hello World<h1>',\n" +
+  "  colors: [ 'red', 'green' ],\n" +
+  '  __v: 0\n' +
+  '}1" (type string) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "{\n' +
+  '  _id: new ObjectId("631cc4dcf2d0dceed752720d"),\n' +
+  '  id: 1,\n' +
+  "  width: '1080',\n" +
+  "  height: '1350',\n" +
+  "  html: '<h1>Hello World<h1>',\n" +
+  "  colors: [ 'red', 'green' ],\n" +
+  '  __v: 0\n' +
+  '}1" (type string) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "{\n' +
+  '  _id: new ObjectId("631ccda1684176409dde300a"),\n' +
+  '  id: 1,\n' +
+  "  width: '1080',\n" +
+  "  height: '1350',\n" +
+  "  html: '<h1>Hello World<h1>',\n" +
+  "  colors: [ 'red', 'green' ],\n" +
+  '  __v: 0\n' +
+  '}1" (type string) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "{\n' +
+  '  _id: new ObjectId("631ccda1684176409dde300a"),\n' +
+  '  id: 1,\n' +
+  "  width: '1080',\n" +
+  "  height: '1350',\n" +
+  "  html: '<h1>Hello World<h1>',\n" +
+  "  colors: [ 'red', 'green' ],\n" +
+  '  __v: 0\n' +
+  '}1" (type string) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id" ValidationError: templates validation failed: id: Cast to Number failed for value "NaN" (type number) at path "id"
+    at Document.invalidate (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:3054:32)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1409:12)
+    at model.$set (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:1092:16)
+    at model.Document (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\document.js:166:12)
+    at model.Model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:119:12)
+    at new model (E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:4992:15)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3160:22
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3195:7
+    at Array.forEach (<anonymous>)
+    at E:\Projects\Javascript\mean\brandrocket\node_modules\mongoose\lib\model.js:3194:15
+Sat Sep 10 2022 - Cannot read properties of undefined (reading 'length') TypeError: Cannot read properties of undefined (reading 'length')
+    at Template.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assetUtities.js:17:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.createTemplate (E:\Projects\Javascript\mean\brandrocket\controller\assets.js:10:16)
+Tue Sep 20 2022 - res.status is not a function TypeError: res.status is not a function
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:57:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:421:3)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Tue Sep 20 2022 - res.status is not a function TypeError: res.status is not a function
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:57:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at param (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:365:14)
+    at param (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:421:3)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:47:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:47:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:47:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:47:12)
+Thu Sep 22 2022 - next is not defined ReferenceError: next is not defined
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:68:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:47:12)
+Thu Sep 22 2022 - next is not defined ReferenceError: next is not defined
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:68:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:47:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:72:14
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:72:14
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:72:14
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:71:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:71:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:71:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Thu Sep 22 2022 - validateEmail is not a function TypeError: validateEmail is not a function
+    at exports.login (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:54:9)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:71:7
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Wed Sep 28 2022 - Cannot set headers after they are sent to the client 
+Wed Sep 28 2022 - Cannot read properties of null (reading 'map') 
+Wed Sep 28 2022 - req.files.map is not a function 
+Wed Sep 28 2022 - req.files.map is not a function 
+Wed Sep 28 2022 - req.files.map is not a function 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 02 00 00 00 02 00 08 06 00 00 00 f4 78 d4 fa 00 00 00 04 73 42 49 ... 
+Wed Sep 28 2022 - The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 02 00 00 00 02 00 08 06 00 00 00 f4 78 d4 fa 00 00 00 04 73 42 49 ... 
+Wed Sep 28 2022 - file is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - log is not defined 
+Wed Sep 28 2022 - assets.append is not a function 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - res is not defined 
+Wed Sep 28 2022 - Assignment to constant variable. 
+Wed Sep 28 2022 - Assignment to constant variable. 
+Wed Sep 28 2022 - Assignment to constant variable. 
+Wed Sep 28 2022 - Cannot read properties of null (reading 'filename') 
+Wed Sep 28 2022 - brand.createBrandAssets(...).map is not a function 
+Wed Sep 28 2022 - output.map(...).pipe is not a function 
+Wed Sep 28 2022 - Array.prototype.map called on null or undefined 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'status') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'filename') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'filename') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'filename') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'filename') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'filename') 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - Cannot access 'result' before initialization 
+Wed Sep 28 2022 - Cannot access 'result' before initialization 
+Wed Sep 28 2022 - Cannot access 'result' before initialization 
+Wed Sep 28 2022 - Cannot access 'result' before initialization 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - brand.getBrandAsset is not a function 
+Wed Sep 28 2022 - Cannot read properties of null (reading 'filename') 
+Wed Sep 28 2022 - Cannot read properties of null (reading 'filename') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'message') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'then') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'link') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'link') 
+Wed Sep 28 2022 - Cannot read properties of undefined (reading 'link') 
+Wed Sep 28 2022 - Upload Failed 
+Wed Sep 28 2022 - Upload Failed 
+Wed Sep 28 2022 - Upload Failed 
+Wed Sep 28 2022 - Upload Failed 
+Wed Sep 28 2022 - Upload Failed 
+Wed Sep 28 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - Upload Failed 
+Thu Sep 29 2022 - id is not defined 
+Thu Sep 29 2022 - id is not defined 
+Thu Sep 29 2022 - id is not defined 
+Thu Sep 29 2022 - id is not defined 
+Thu Sep 29 2022 - id is not defined 
+Thu Sep 29 2022 - id is not defined 
+Thu Sep 29 2022 - res is not defined 
+Thu Sep 29 2022 - res is not defined 
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Cannot access 'result' before initialization ReferenceError: Cannot access 'result' before initialization
+    at exports.getBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:168:24)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:80:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Cannot access 'result' before initialization ReferenceError: Cannot access 'result' before initialization
+    at exports.getBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:168:24)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:80:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Cannot access 'result' before initialization ReferenceError: Cannot access 'result' before initialization
+    at exports.getBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:168:24)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:80:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Cannot access 'result' before initialization ReferenceError: Cannot access 'result' before initialization
+    at exports.getBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:168:24)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:80:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Cast to ObjectId failed for value ":633556f05a77ae32ce40e4e9" (type string) at path "_id" for model "brandAssets" CastError: Cast to ObjectId failed for value ":633556f05a77ae32ce40e4e9" (type string) at path "_id" for model "brandAssets"
+    at model.Query.exec (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\mongoose\lib\query.js:4884:21)
+    at Query.then (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\mongoose\lib\query.js:4983:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "brandAssets" CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "brandAssets"
+    at model.Query.exec (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\mongoose\lib\query.js:4884:21)
+    at Query.then (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\mongoose\lib\query.js:4983:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "brandAssets" CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "brandAssets"
+    at model.Query.exec (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\mongoose\lib\query.js:4884:21)
+    at Query.then (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\mongoose\lib\query.js:4983:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:159:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:159:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:159:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:159:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:159:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:159:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - file is not defined ReferenceError: file is not defined
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:137:31)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:161:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:36:3)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:69:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:162:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:148:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:148:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:148:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu Sep 29 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Fri Sep 30 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sun Oct 02 2022 - Upload Failed Error: Upload Failed
+    at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
