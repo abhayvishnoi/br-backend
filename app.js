@@ -31,10 +31,10 @@ myapp = app.listen(PORT || 5000, PRODUCTION == "true" && HOST);
 console.log(
   "PORT=>",
   PORT || 5000,
-  `PRODUCTION[${PRODUCTION}] =>`,
-  PRODUCTION == "true"
-    ? `http://${HOST}:${PORT}`
-    : `http://localhost:${myapp.address().port}`
+  `PRODUCTION[${PRODUCTION}] =>`
+  // PRODUCTION == "true"
+  //   ? `http://${HOST}:${PORT}`
+  //   : `http://localhost:${myapp.address().port}`
 );
 // while (true) {
 //   if ((Math.floor(Math.random()) * 100) % 23 === 0) {
