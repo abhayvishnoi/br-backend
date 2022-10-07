@@ -18,8 +18,8 @@ async function mailer(recipient, token) {
       pass: pass, // generated ethereal password
     },
   });
-  // let url = `https://contentkingav.surge.sh/reset/${token}`;
-  let url = `http://localhost:4200/#/reset/${token}`;
+  let url = `https://contentkingav.surge.sh/reset/${token}`;
+  // let url = `http://localhost:4200/#/reset/${token}`;
   // send mail with defined transport object
   let info = await transporter.sendMail({
     from: `no-reply <${email}>`, // sender address
