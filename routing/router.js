@@ -1,5 +1,10 @@
 let router = require("express").Router();
-const { login, signup } = require("../controller/mainController");
+const {
+  login,
+  signup,
+  reset,
+  updatePassword,
+} = require("../controller/mainController");
 const jwt = require("jsonwebtoken");
 const {
   createTemplate,
@@ -21,6 +26,7 @@ const {
   getBrandColors,
 } = require("../controller/assets");
 function verifyToken(req, res, next) {
+  console.log(req.body);
   if (!req.headers.authorization) {
     return res.status(400).send("Unauthorized request");
   }
@@ -42,6 +48,7 @@ postRequests = [
   { path: "/brand/:userId", controller: createBrand, verify: true },
   { path: "/assets/:brandId", controller: createBrandAsset, verify: true },
   { path: "/plan", controller: createPlan, verify: true },
+  { path: "/resetPassword", controller: reset },
 ];
 getRequests = [
   { path: "/template/:id", controller: getTemplate, verify: true },
@@ -55,6 +62,7 @@ updateRequests = [
   { path: "/template/:id", controller: updateTemplate, verify: true },
   { path: "/brand/:id", controller: updateBrand, verify: true },
   { path: "/plan/:id", controller: updatePlan, verify: true },
+  { path: "/updatePassword", controller: updatePassword },
 ];
 deleteRequests = [
   { path: "/template/:id", controller: deleteTemplate, verify: true },

@@ -1439,3 +1439,155 @@ Sun Oct 02 2022 - Upload Failed Error: Upload Failed
 Sun Oct 02 2022 - Upload Failed Error: Upload Failed
     at exports.createBrandAsset (E:\Projects\Javascript\mean\brandrocket\backend\controller\assets.js:147:15)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sat Oct 08 2022 - mailer is not a function TypeError: mailer is not a function
+    at exports.reset (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:90:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sat Oct 08 2022 - mailer is not a function TypeError: mailer is not a function
+    at exports.reset (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:90:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sat Oct 08 2022 - mailer is not a function TypeError: mailer is not a function
+    at exports.reset (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:90:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - jwt malformed JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\jsonwebtoken\verify.js:63:17)
+    at verifyToken (E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:37:21)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:88:40
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:280:10)
+Sat Oct 08 2022 - Password is not defined ReferenceError: Password is not defined
+    at exports.updatePassword (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:112:26)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:97:70
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Sat Oct 08 2022 - Password is not defined ReferenceError: Password is not defined
+    at exports.updatePassword (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:114:26)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:97:70
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Sat Oct 08 2022 - Password is not defined ReferenceError: Password is not defined
+    at exports.updatePassword (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:114:26)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:97:70
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Sat Oct 08 2022 - Password is not defined ReferenceError: Password is not defined
+    at exports.updatePassword (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:114:26)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:97:70
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)
+Sat Oct 08 2022 - Password is not defined ReferenceError: Password is not defined
+    at exports.updatePassword (E:\Projects\Javascript\mean\brandrocket\backend\controller\user.js:114:26)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at E:\Projects\Javascript\mean\brandrocket\backend\routing\router.js:97:70
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Projects\Javascript\mean\brandrocket\backend\node_modules\express\lib\router\index.js:346:12)

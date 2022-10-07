@@ -13,9 +13,15 @@ generateToken = (data) => {
   let token = jwt.sign(payload, "secretKey");
   return token;
 };
+verifyToken = (token) => {
+  let payload = jwt.verify(token, "secretKey");
+  let userId = payload.subject;
+  return userId;
+};
 module.exports = {
   nameValidator,
   validateEmail,
   validatePassword,
   generateToken,
+  verifyToken,
 };
