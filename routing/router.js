@@ -1,10 +1,5 @@
 let router = require("express").Router();
-const {
-  login,
-  signup,
-  reset,
-  updatePassword,
-} = require("../controller/mainController");
+const { login, signup, reset, updatePassword } = require("../controller/user");
 const jwt = require("jsonwebtoken");
 const {
   createTemplate,
@@ -25,6 +20,7 @@ const {
   getGlobalTemplates,
   getBrandColors,
 } = require("../controller/assets");
+const { getGoogleFonts } = require("../controller/mainController");
 function verifyToken(req, res, next) {
   console.log(req.body);
   if (!req.headers.authorization) {
@@ -57,6 +53,8 @@ getRequests = [
   { path: "/colors/:brandId", controller: getBrandColors, verify: true },
   { path: "/plan/:id", controller: getPlan, verify: true },
   { path: "/global-templates", controller: getGlobalTemplates, verify: true },
+  { path: "/google-fonts", controller: getGoogleFonts, verify: true },
+  // { path: "/google-fonts", controller: getGoogleFonts },
 ];
 updateRequests = [
   { path: "/template/:id", controller: updateTemplate, verify: true },
