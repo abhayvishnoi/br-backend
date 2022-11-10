@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(helmet());
 //enable cors
 corsOptions = {
-  origin: ["localhost"],
+  origin: ["localhost", "https://brandrocket.surge.sh"],
 };
 app.use(cors());
 //enable file-uploading
